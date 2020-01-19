@@ -80,7 +80,7 @@ function preventDoubleTap() {
 }
 
 function launchDaumMap() {
-    location.href = "daummaps://place?id=245466707";
+    location.href = "daummaps://place?id=21555073";
     setTimeout(function() {
         if (location.href === "https://daehee-seoyeong.github.io") {
             location.href = "https://m.map.kakao.com/actions/searchView?q=%EB%B9%84%EB%A0%8C%ED%8B%B0#!/245466707/map/place";
