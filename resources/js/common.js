@@ -44,7 +44,7 @@ function initializeCardSlider() {
 }
 
 function initializeDateStamp() {
-    var dday = new Date("May 23, 2020 00:00:00").getTime();//디데이
+    var dday = new Date("may 23, 2020 00:00:00").getTime();//디데이
     var nowday = new Date();//현재
     nowday = nowday.getTime();//밀리세컨드 단위변환
     var distance = dday - nowday;//디데이에서 현재까지 뺀다.
