@@ -82,8 +82,8 @@ function preventDoubleTap() {
 function launchDaumMap() {
     location.href = "daummaps://place?id=21555073";
     setTimeout(function() {
-        if (location.href === "https://daehee-seoyeong.github.io") {
-            location.href = "https://m.map.kakao.com/actions/searchView?q=%EB%B9%84%EB%A0%8C%ED%8B%B0#!/245466707/map/place";
+        if (location.href === "https://yohan-sunwoo.github.io") {
+            location.href = "https://m.map.kakao.com/actions/searchView?q=더클래스청담#!/21555073/map/place";
         }
     }, 1000);
 }
