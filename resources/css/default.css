@@ -89,7 +89,7 @@ body p {
     width: 100%;
     height: 100vw;
     max-height: 345px;
-    background: url("/resources/image/main.JPG") no-repeat;
+    background: url("/resources/image/main.jpg") no-repeat;
     background-size: cover;
     background-position: center top;
     opacity: 0.9;
