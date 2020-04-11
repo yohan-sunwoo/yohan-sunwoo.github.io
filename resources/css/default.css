@@ -92,7 +92,7 @@ body p {
     background: url("/resources/image/main.jpg") no-repeat;
     background-size: cover;
     background-position: center top;
-    opacity: 0.9;
+    opacity: 1.0;
     mix-blend-mode: multiply;
 }
 
