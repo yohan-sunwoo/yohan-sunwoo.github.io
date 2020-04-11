@@ -260,7 +260,7 @@ body p {
     height: auto;
     max-width: 100%;
     vertical-align: middle;
-    opacity: 0.9;
+    opacity: 1.0;
     mix-blend-mode: multiply;
 }
 .third-content .photo-area-2 {
