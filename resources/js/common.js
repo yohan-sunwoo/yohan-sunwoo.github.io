@@ -102,7 +102,7 @@ function prevImage() {
     var pageString = $(".indicator").text();
     var curPage = parseInt(pageString.split("/")[0]);
     var maxPage = parseInt(pageString.split("/")[1]);
-    var prevPage = (curPage - 1 == 0) ? 12 : curPage - 1;
+    var prevPage = (curPage - 1 == 0) ? 17 : curPage - 1;
     switchImage(curPage, prevPage, maxPage);
 }
 
