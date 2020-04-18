@@ -355,7 +355,46 @@ body p {
     opacity: 1.0;
     mix-blend-mode: multiply;
 }
-
+.third-content .photo-area-13 {
+    display: none;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    opacity: 1.0;
+    mix-blend-mode: multiply;
+}
+.third-content .photo-area-14 {
+    display: none;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    opacity: 1.0;
+    mix-blend-mode: multiply;
+}
+.third-content .photo-area-15 {
+    display: none;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    opacity: 1.0;
+    mix-blend-mode: multiply;
+}
+.third-content .photo-area-16 {
+    display: none;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    opacity: 1.0;
+    mix-blend-mode: multiply;
+}
+.third-content .photo-area-17 {
+    display: none;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    opacity: 1.0;
+    mix-blend-mode: multiply;
+}
 .third-content .controller-area {
     width: 100%;
     height: 70px;
