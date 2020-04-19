@@ -178,8 +178,8 @@ body p {
     opacity: none;
     position: relative;
     width: 100%;
-    height: calc(100% - 100vw);
-    min-height: calc(100% - 345px);
+    height: calc(100% - 108vw);
+    min-height: calc(100% - 380px);
 }
 
 /* 두번째 컨텐츠 */
