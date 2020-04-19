@@ -354,7 +354,9 @@ body p {
     vertical-align: middle;
     opacity: 1.0;
     mix-blend-mode: multiply;
-
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .third-content .photo-area-13 {
    display: none;
@@ -363,7 +365,9 @@ body p {
     vertical-align: middle;
     opacity: 1.0;
     mix-blend-mode: multiply;
-
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .third-content .photo-area-14 {
     display: none;
@@ -372,6 +376,9 @@ body p {
     vertical-align: middle;
     opacity: 1.0;
     mix-blend-mode: multiply;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .third-content .photo-area-15 {
     display: none;
@@ -380,6 +387,9 @@ body p {
     vertical-align: middle;
     opacity: 1.0;
     mix-blend-mode: multiply;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 
 }
 .third-content .photo-area-16 {
@@ -389,15 +399,20 @@ body p {
     vertical-align: middle;
     opacity: 1.0;
     mix-blend-mode: multiply;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .third-content .photo-area-17 {
-      display: none;
+    display: none;
     height: auto;
     max-width: 100%;
     vertical-align: middle;
     opacity: 1.0;
     mix-blend-mode: multiply;
-;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 .third-content .controller-area {
     width: 100%;
